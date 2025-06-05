@@ -1,2 +1,6 @@
 # DSA_PYTHON
-<!-- GitAds-Verify: R8Q53FFIKK5IIDRSA1SHCM3GVWT2XHMJ -->
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=zoxilsi/dsa_python@github)](https://gitads.dev/v1/ad-track?source=zoxilsi/dsa_python@github)
+
+
